@@ -1,0 +1,14 @@
+h1 {
+    background-color: rgb(245, 0, 0);
+    text-align: center;
+ }
+ p {
+    text-align: center;
+ }
+ em {
+    font: size 25px;
+ }
+
+ body {
+    background-color: rgb(154, 125, 182);
+ }
