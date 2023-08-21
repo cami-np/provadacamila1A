@@ -1,5 +1,5 @@
 h1 {
-    background-color: rgb(245, 0, 0);
+    background-color: rgb(233, 97, 181);
     text-align: center;
  }
  p {
@@ -8,7 +8,17 @@ h1 {
  em {
     font: size 25px;
  }
-
+ .jao {
+    background-color: rgb(238, 234, 28);
+    font-size: 17px;
+}
+.lindo {
+    background-color: rgb(79, 190, 224);
+    font-size: 16px;
+}
+.legal {
+    font-size: 20px;
+}
  body {
-    background-color: rgb(154, 125, 182);
+    background-color: rgb(255, 255, 255);
  }
