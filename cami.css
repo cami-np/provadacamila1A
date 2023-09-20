@@ -19,6 +19,9 @@ h1 {
 .legal {
     font-size: 20px;
 }
+.bom {
+    font-size: 20px; ;
+}
 .lista {
     display: inline-block;
     padding: 4%;
@@ -27,3 +30,9 @@ h1 {
  body {
     background-color: rgb(255, 255, 255);
  }
+ nav a{
+    text-transform: uppercase;
+    color: rgb(151, 0, 0);
+    font-weight: 300;
+    font-size: 100%;
+}
